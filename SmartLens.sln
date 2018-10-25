@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28010.2041
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SmartLens", "SmartLens.csproj", "{373E29EA-9696-465B-94FE-CBE2532DCC07}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Debug|x64 = Debug|x64
+		Release|Any CPU = Release|Any CPU
+		Release|x64 = Release|x64
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{373E29EA-9696-465B-94FE-CBE2532DCC07}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{373E29EA-9696-465B-94FE-CBE2532DCC07}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{373E29EA-9696-465B-94FE-CBE2532DCC07}.Debug|x64.ActiveCfg = Debug|x64
+		{373E29EA-9696-465B-94FE-CBE2532DCC07}.Debug|x64.Build.0 = Debug|x64
+		{373E29EA-9696-465B-94FE-CBE2532DCC07}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{373E29EA-9696-465B-94FE-CBE2532DCC07}.Release|Any CPU.Build.0 = Release|Any CPU
+		{373E29EA-9696-465B-94FE-CBE2532DCC07}.Release|x64.ActiveCfg = Release|x64
+		{373E29EA-9696-465B-94FE-CBE2532DCC07}.Release|x64.Build.0 = Release|x64
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {544173DE-45AE-43C0-8DF0-02DB50E25F36}
+	EndGlobalSection
+EndGlobal

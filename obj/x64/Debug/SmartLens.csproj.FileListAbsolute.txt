@@ -1,0 +1,10 @@
+D:\GitHub\SmartLens\SmartLens\bin\x64\Debug\SmartLens.exe.config
+D:\GitHub\SmartLens\SmartLens\bin\x64\Debug\SmartLens.exe
+D:\GitHub\SmartLens\SmartLens\bin\x64\Debug\SmartLens.pdb
+D:\GitHub\SmartLens\SmartLens\bin\x64\Debug\Tesseract.dll
+D:\GitHub\SmartLens\SmartLens\bin\x64\Debug\Tesseract.xml
+D:\GitHub\SmartLens\SmartLens\obj\x64\Debug\SmartLens.csproj.CoreCompileInputs.cache
+D:\GitHub\SmartLens\SmartLens\obj\x64\Debug\SmartLens.csproj.CopyComplete
+D:\GitHub\SmartLens\SmartLens\obj\x64\Debug\SmartLens.exe
+D:\GitHub\SmartLens\SmartLens\obj\x64\Debug\SmartLens.pdb
+D:\GitHub\SmartLens\SmartLens\obj\x64\Debug\SmartLens.csprojAssemblyReference.cache
